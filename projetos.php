@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt">
 
 <head>
 
@@ -15,8 +15,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
-    <link href="css/logo-nav.css" rel="stylesheet">
-	<link href="css/style.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/logo-nav.css">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -48,7 +47,7 @@
             </div>
 			
             <div class="col-lg-12">
-				<table>
+				<table class="table table-striped">
 					<thead>
 						<tr>
 							<th>Projeto</th>
@@ -83,14 +82,14 @@
 							<td><a href="projetos/Projeto%20Atualiza%C3%A7%C3%A3o%20do%20Laboratorio%20de%20Robotica%5B27-Jul-2016%5D.pdf">Atualização do Laboratório de Robótica</a></td>
 							<td>27/06/2016</td>
 							<td>30/06/2016</td>
-							<td>Aprovado</td>
+							<td><span class="label label-primary">Aprovado</span></td>
 						</tr>
 						
 						<tr>
 							<td><a href="projetos/Projeto%20Pagamento%20de%20Inscri%C3%A7%C3%A3o%20de%20Maratona%20de%20Programa%C3%A7%C3%A3o%202016%5B27-Jul-2016%5D.pdf">Pagamento de Inscrição da Maratona de Programação 2016</a></td>
 							<td>27/06/2016</td>
 							<td>30/06/2016</td>
-							<td>Aprovado</td>
+							<td><span class="label label-primary">Aprovado</span></td>
 						</tr>
 						
 												
@@ -98,28 +97,28 @@
 							<td><a href="projetos/Projeto%20Minicursos%202017%5B27-Set-2016%5D.pdf">Minicursos 2017</a></td>
 							<td>27/09/2016</td>
 							<td>03/10/2016</td>
-							<td>Aprovado</td>
+							<td><span class="label label-primary">Aprovado</span></td>
 						</tr>
 						
 						<tr>
 							<td><a href="projetos/Projeto%20Atualiza%C3%A7%C3%A3o%20de%20Laborat%C3%B3rio%20de%20Ensino%5B09-Out-2016%5D.pdf">Atualização de Laboratório de Ensino</a></td>
 							<td>09/10/2016</td>
 							<td>11/11/2016</td>
-							<td>Aprovado</td>
+							<td><span class="label label-primary">Aprovado</span></td>
 						</tr>
 						
 						<tr>
 							<td><a href="projetos/Projeto%20Transporte%20The%20Developers%20Conference%202017%5B31-Mar-2017%5D.pdf">Transporte The Developers Conference 2017</a></td>
 							<td>31/03/2017</td>
 							<td>05/04/2017</td>
-							<td>Aprovado</td>
+							<td><span class="label label-primary">Aprovado</span></td>
 						</tr>
 						
 						<tr>
 							<td><a href="projetos/Projeto%20Licen%C3%A7a%20Arduino%20Proteus%5B18-Abr-2017%5D.pdf">Licença Arduino Proteus</a></td>
 							<td>18/04/2017</td>
 							<td>26/04/2017</td>
-							<td>Aprovado</td>
+							<td><span class="label label-primary">Aprovado</span></td>
 						</tr>
 						
 					</tbody>

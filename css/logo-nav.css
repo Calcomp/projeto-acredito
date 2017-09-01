@@ -4,8 +4,41 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 
-body {
+ @import url('https://fonts.googleapis.com/css?family=Encode+Sans');
+ 
+ body {
     padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+   font-family: 'Encode Sans', sans-serif;
+   color: #161616 !important;
+ }
+ 
+ h4 {
+   text-transform: uppercase;
+   font-weight: bold;
+ }
+ 
+ p {
+   text-align: justify;
+ }
+ 
+ nav {
+   background-color:#325223 !important;
+   color: white;
+   border-color: white !important;
+ }
+ 
+ .navbar-fixed-top .nav {
+   padding: 15px 0;
+ }
+ 
+ .navbar-fixed-top .navbar-brand {
+   padding: 0 15px;
+ }
+ 
+ nav > div > ul > li > a, nav > div > ul > li > a:hover, nav > div > ul > li > a:focus {
+   background-color:#325223 !important;
+   color: white;
+   border-color: white !important;
 }
 
 .navbar-fixed-top .nav {
