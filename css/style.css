@@ -1,0 +1,26 @@
+/*Converter de em pra %*/
+table{
+    width: 90%;
+}
+
+th,td{
+    padding: 5px;
+    border-collapse: true;
+    border-bottom: 1px solid #ddd;
+	text-align: center;
+}
+
+td a{
+    float: left;
+    margin: 5px;
+	text-align: left;
+}
+
+td dl{
+	margin: 5px;
+	text-align: left;
+}
+
+td dl a{
+	float: none;
+}
