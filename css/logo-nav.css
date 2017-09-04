@@ -24,7 +24,7 @@
  nav {
    background-color:#325223 !important;
    color: white;
-   border-color: white !important;
+   border-color: #325223 !important;
  }
  
  .navbar-fixed-top .nav {
@@ -34,12 +34,6 @@
  .navbar-fixed-top .navbar-brand {
    padding: 0 15px;
  }
- 
- nav > div > ul > li > a, nav > div > ul > li > a:hover, nav > div > ul > li > a:focus {
-   background-color:#325223 !important;
-   color: white;
-   border-color: white !important;
-}
 
 .navbar-fixed-top .nav {
     padding: 15px 0;
