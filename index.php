@@ -34,7 +34,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 col-sm-3" style="text-align: center;width: auto;">
-					<h1 id="titulo">PRO<wbr>JE<wbr>TO&nbsp;A<wbr>CRE<wbr>DI<wbr>TO</h1>
+					<h1 id="titulo">PROJETO&nbsp;<wbr>ACREDITO</h1>
 					<h3><small class="subtitulo pull-right">Ciência da Computação - FURB</small></h3>
 				</div>
 			</div>
