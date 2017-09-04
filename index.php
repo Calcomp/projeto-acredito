@@ -15,7 +15,7 @@
     <!---->
 	<link rel="stylesheet" href="css/style.css">
 
-	<link href="font-awesome/css/font-awesome.css" rel="stylesheet">
+	<link href="fonts/font-awesome/css/font-awesome.css" rel="stylesheet">
 
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
