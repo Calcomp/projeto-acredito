@@ -85,7 +85,7 @@
 							<tr>
 								<td>João Paulo Serodio Gonçalves</td>
 								<td>8º semestre</td>
-								<td>Representante</td>
+								<td>Vice-presidente</td>
 							</tr>
 							<tr>
 								<td>-</td>
@@ -105,7 +105,7 @@
 							<tr>
 								<td>Lucas Eduardo Schlögl</td>
 								<td>-</td>
-								<td>Representante do CALCOMP</td>
+								<td>Representante do CALCOMP e Presidente do ACREDITO</td>
 							</tr>
 							<tr>
 								<td>Fernando Luiz Krambeck</td>

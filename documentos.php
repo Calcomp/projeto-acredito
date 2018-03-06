@@ -43,7 +43,7 @@
 			
 			<div class="col-lg-12">
                 <h1>Documentos</h1>
-                <p>Aqui são apresentados documentos do Projeto ACREDITO. Estes documentos são resoluções que regulamentam o mesmo ou memorandos.</p>
+                <p>Aqui são apresentados documentos do Projeto Acredito. Estes documentos são resoluções que regulamentam o mesmo ou memorandos.</p>
 				<br>
             </div>
 			
@@ -64,7 +64,7 @@
 					<li>
 						<dl>
 							<dt><a href="documentos/Resolucao1_2016_Final.pdf">Resolução 001/2016</a></dt>
-							<dd>Resolução que disciplina e regulamenta o formato e o encaminhamento dos projetos aprovados no âmbito do Conselho Deliberativo do Projeto ACREDITO.</dd>
+							<dd>Resolução que disciplina e regulamenta o formato e o encaminhamento dos projetos aprovados no âmbito do Conselho Deliberativo do Projeto Acredito.</dd>
 							<br>
 						</dl>
 					</li>
@@ -83,10 +83,10 @@
 							<td>
 								<dl>
 									<dt><a href="documentos/Memorando%20005-2016.pdf">Memorando 005/2016 CALCOMP</a></dt>
-									<dd>Pedindo a liberação de recursos do ACRDITO para o projeto de atualização do Laboratório de Robótica.</dd>
+									<dd>Pedindo a liberação de recursos do ACREDITO para o projeto de atualização do Laboratório de Robótica.</dd>
 								</dl>
 							</td>
-							<td rowspan="3">
+							<td>
 								<dl>
 									<dt><a href="documentos/MEMORANDO%20N%C2%BA102-2016-PROAD.pdf">Memorando 102/2016 PROAD</a></dt>
 									<dd>Resposta da PROAD em relação ao memorando 008/2016 ACREDITO.</dd>
@@ -98,9 +98,10 @@
 							<td>
 								<dl>
 									<dt><a href="documentos/Memorando%20006-2016.pdf">Memorando 006/2016 CALCOMP</a></dt>
-									<dd>Pedindo a liberação de recursos do ACRDITO para o projeto dos Minicursos 2017.</dd>
+									<dd>Pedindo a liberação de recursos do ACREDITO para o projeto dos Minicursos 2017.</dd>
 								</dl>
 							</td>
+							<td></td>
 						</tr>
 						
 						<tr>
@@ -110,6 +111,7 @@
 									<dd>Pedindo de explicações sobre memorandos 005/2016 CALCOMP e 006/2016 CALCOMP, pela falta de uma resposta oficial. Só haviam respostas extraoficiais até o envio deste memorando.</dd>
 								</dl>
 							</td>
+							<td></td>
 						</tr>
 						<tr>
 							<td>
@@ -125,6 +127,15 @@
 								<dl>
 									<dt><a href="documentos/Memorando002-2017.pdf">Memorando 002/2017 ACREDITO</a></dt>
 									<dd>Pedindo a liberação de recursos do ACRDITO para o projeto  Projeto Licença Arduino Proteus.</dd>
+								</dl>
+							</td>
+							<td></td>
+						</tr>
+						<tr>
+							<td>
+								<dl>
+									<dt><a href="documentos/Memorando003-2017.pdf">Memorando 003/2017 ACREDITO</a></dt>
+									<dd>Pedindo para consideração de validação da participação no Acredito como AACC.</dd>
 								</dl>
 							</td>
 							<td></td>

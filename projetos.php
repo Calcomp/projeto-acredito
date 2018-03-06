@@ -72,7 +72,7 @@
 						</tr>
 						
 						<tr>
-							<td><a href="projetos/prj-2012-transporte-campus-party.pdf">Transporte campus party</a></td>
+							<td><a href="projetos/prj-2012-transporte-campus-party.pdf">Transporte Campus Party</a></td>
 							<td>30/10/2012</td>
 							<td>-</td>
 							<td>-</td>

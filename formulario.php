@@ -43,11 +43,11 @@
 			
 			<div class="col-lg-12">
                 <h1>Formulário para submissão de projetos</h1>
-                <p>Todos os projetos apresentados ao Conselho Deliberativo do Projeto ACREDITO devem seguir um formato, conforme especificado pela Resolução 001/2016.</p>
+                <p>Todos os projetos apresentados ao Conselho Deliberativo do Projeto Acredito devem seguir um formato, conforme especificado pela Resolução 001/2016.</p>
 				<p>Um modelo que segue o formato e com explicações é disponibilizado <a href="formularios/Formul%C3%A1rioProjetos.docx"><b>aqui</b></a>.</p>
 				<br>
 				<h4>Processo</h4>
-				<p>Depois de preencher o formulário com as informações necessárias para o projeto, imprima-o mesmo e assine-o. A cópia assinada deve ser entregue na secretaria do Departamento de Sistema e Computação (DSC), ou na ausencia desta na secretaria do Centro de Ciências Exatas e Naturais (CCEN), que a encainhará para o presidente do Conselho Deliberativo do Projeto ACREDITO. O presidente irá avaliar o projeto, se ele estiver de acordo com o formato expecificado no Anexo 1 da Resolução 001/2016 ele será discutido e deliberado na proxima reunião do Conselho Deliberativo, caso contrario será devolvido ao autor informando as correções necessárias.</p>
+				<p>Depois de preencher o formul&aacute;rio com as informa&ccedil;&otilde;es necess&aacute;rias para o projeto, o mesmo deve ser impresso e assinado. A c&oacute;pia assinada deve ser entregue na secretaria do Departamento de Sistema e Computa&ccedil;&atilde;o (DSC), ou na aus&ecirc;ncia desta, na secretaria do Centro de Ci&ecirc;ncias Exatas e Naturais (CCEN), que a encaminhar&aacute; para o presidente do Conselho Deliberativo do Projeto Acredito. O presidente ir&aacute; avaliar o projeto, se o mesmo estiver de acordo com o formato especificado no Anexo 1 da Resolu&ccedil;&atilde;o 001/2016 ser&aacute; discutido e deliberado na pr&oacute;xima reuni&atilde;o do Conselho Deliberativo, caso contr&aacute;rio ser&aacute; devolvido ao autor informando as corre&ccedil;&otilde;es necess&aacute;rias.</p>
 				<br>
             </div>
         </div>

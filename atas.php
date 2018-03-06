@@ -67,6 +67,9 @@
 					<br>
 					<dt><a href="atas/Ata26_04_2017_Final.pdf">Reunião 26/04/2017</a></dt>
             		<dd> Projeto: Licença Arduino Proteus</dd>
+                    <br>
+					<dt><a href="atas/Ata28_06_2017_Final.pdf">Reunião 28/06/2017</a></dt>
+            		<dd> Troca de presidente do Acredito</dd>
         		</dl>
 				
             </div>

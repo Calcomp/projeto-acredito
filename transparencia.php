@@ -42,7 +42,7 @@
 			
 			<div class="col-lg-12">
                 <h1>Transparência</h1>
-                <p>Aqui são apresentadas planilhas com o controle financeiro que quanto foi gasto com os projetos submetidos ao ACREDITO.</p>
+                <p>Aqui s&atilde;o apresentadas planilhas com o controle financeiro de quanto foi gasto com os projetos submetidos ao ACREDITO.</p>
 				<br>
             </div>
 			
